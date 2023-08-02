@@ -18,9 +18,10 @@ Vous trouverez aussi :
 Et tout un tas de trucs que j'ai developpé au fil de mes questionnements.
 
 ![enter image description here][1]
-
+blob:http%3A//localhost%3A9100/a7ff625b-355e-40d7-80b8-27bea3910228
 
 ![enter image description here][2]
+blob:http%3A//localhost%3A9100/a62d0294-c69c-470f-9f4e-9cc58f80ca23
 
 Amusez-vous bien!
 
