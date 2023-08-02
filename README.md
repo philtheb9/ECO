@@ -3,7 +3,7 @@ ensemble de code et shader en c++ et openGL
 ECO est un moteur 3d que j'ai developpé au fil de mes loisirs, sous Window, avec code::blocks et fmod.
 L'échelle est 1 pour 1 mètre, z est la verticale et mes matrices sont "horizontales"
 
-Mon ambition était simplement de comprendre commeent cela fonctionnait.
+Mon ambition était simplement de comprendre comment cela fonctionnait.
 Il contient tout un ensemble de codes et shaders pour openGL 3.3.
 
 Il y a un ensemble d'interface : boutons, listes, menu, etc avec un programme d'exemple.
@@ -17,14 +17,11 @@ Vous trouverez aussi :
 
 Et tout un tas de trucs que j'ai developpé au fil de mes questionnements.
 
-![enter image description here][1]
-blob:http%3A//localhost%3A9100/a7ff625b-355e-40d7-80b8-27bea3910228
 
-![enter image description here][2]
-blob:http%3A//localhost%3A9100/a62d0294-c69c-470f-9f4e-9cc58f80ca23
+![aide_0](https://github.com/philtheb9/ECO/assets/140612632/066087e0-e864-46fb-a8c4-01aadea4ffd1)
+
+
+![aide_01](https://github.com/philtheb9/ECO/assets/140612632/a730afcb-78fa-4997-a5b4-af8eaaf53386)
 
 Amusez-vous bien!
 
-
-  [1]: #file:ba82e5ab-a4c9-038d-41ec-dc62903e2b45
-  [2]: #file:a430b650-638b-f9e2-467e-02e362efdd7d
