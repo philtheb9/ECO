@@ -1,5 +1,6 @@
 # ECO
-ensemble de code et shader en c++ et openGL
+ensemble de code et shader en c++ et openGL 3.3
+
 ECO est un moteur 3d que j'ai developpé au fil de mes loisirs, sous Window, avec code::blocks et fmod.
 L'échelle est 1 pour 1 mètre, z est la verticale et mes matrices sont "horizontales"
 
